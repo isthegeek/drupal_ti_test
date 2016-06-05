@@ -4,4 +4,5 @@ description: 'This module is for testing drupal_ti.'
 package: Novelty
 core: 8.x
 dependencies:
+  - video_embed_field
   - video_embed_media
